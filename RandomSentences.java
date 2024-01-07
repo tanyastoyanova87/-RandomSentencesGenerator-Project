@@ -1,9 +1,7 @@
 import java.util.Random;
-import java.util.Scanner;
 
 public class RandomSentences {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
 
         String[] names = {"Maria", "Ivan", "Georgi", "Alexander", "Silvia", "Teodor", "Mihaela", "Peter", "Radoslav", "Katrin"};
         String[] places = {"Sandanski", "Varna", "Burgas", "Sofia", "Bansko", "Plovdiv", "Blagoevgrad", "Vraca", "Botevgrad", "Pernik"};
